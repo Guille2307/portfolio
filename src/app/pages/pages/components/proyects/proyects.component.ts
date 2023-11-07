@@ -9,7 +9,7 @@ import { Router } from '@angular/router';
 export class ProyectsComponent {
   public proyects: any[] = [
     {
-      img: '../../../../../assets/proyects/Show.jpg',
+      img: './assets/proyects/Show.jpg',
       title: 'Woutick Show',
       subtitle: 'Angular, Ionic',
       description:
@@ -17,7 +17,7 @@ export class ProyectsComponent {
       url: 'http://woutickshow.s3-website.eu-west-1.amazonaws.com/login',
     },
     {
-      img: '../../../../../assets/proyects/Landing.jpg',
+      img: './assets/proyects/Landing.jpg',
       title: 'Woutick Landing Page',
       subtitle: 'Angular, Ionic',
       description:
@@ -25,7 +25,7 @@ export class ProyectsComponent {
       url: 'https://woutick.info/',
     },
     {
-      img: '../../../../../assets/proyects/Heroes.jpg',
+      img: './assets/proyects/Heroes.jpg',
       title: 'Heroes of the storm',
       subtitle: 'Angular, Express, Node, Mongo',
       description:
@@ -33,7 +33,7 @@ export class ProyectsComponent {
       url: 'https://heroesofthestorm.netlify.app',
     },
     {
-      img: '../../../../../assets/proyects/Pro.jpg',
+      img: './assets/proyects/Pro.jpg',
       title: 'AdminPro',
       subtitle: 'Angular, Express, Node, Mongo',
       description:
@@ -41,7 +41,7 @@ export class ProyectsComponent {
       url: 'https://adminprogp.netlify.app',
     },
     {
-      img: '../../../../../assets/proyects/Goty.jpg',
+      img: './assets/proyects/Goty.jpg',
       title: 'Game of the year',
       subtitle: 'Angular, Firebase',
       description:
@@ -49,7 +49,7 @@ export class ProyectsComponent {
       url: 'https://gameoftheyear.netlify.app',
     },
     {
-      img: '../../../../../assets/proyects/Map.jpg',
+      img: './assets/proyects/Map.jpg',
       title: 'Map',
       subtitle: 'Angular',
       description:

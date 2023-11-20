@@ -6,7 +6,7 @@
 
 <section class="my-8">
   <div class="grid">
-    <div class="col-12 lg:col-4 md:col-6 grow" *ngFor="let proyect of proyects">
+    <div class="col-12 md:col-6 grow" *ngFor="let proyect of proyects">
       <p-card [header]="proyect.title" [subheader]="proyect.subtitle">
         <ng-template pTemplate="header">
           <img [alt]="proyect.title" [src]="proyect.img" />

@@ -37,7 +37,7 @@ export class ProyectsComponent {
       title: 'AdminPro',
       subtitle: 'Angular, Express, Node, Mongo',
       description:
-        'Como parte de mi auto formación, y procura de mejora constante, realice el curso de Angular Avanzado de UDEMY, impartido por Fernándo Herrera, AdminPro es una web que desarrolle a lo largo del curso, autenticación, CRUD de médicos y hospitales ',
+        'Como parte de mi auto formación, y procura de mejora constante, realice el curso de Angular Avanzado, AdminPro es una web que desarrolle a lo largo del curso, autenticación, CRUD de médicos y hospitales ',
       url: 'https://adminprogp.netlify.app',
     },
     {
@@ -45,7 +45,7 @@ export class ProyectsComponent {
       title: 'Game of the year',
       subtitle: 'Angular, Firebase',
       description:
-        'Game of the year también es un proyecto que se encuenta dentro del curso de Angular Avanzado, En este caso practicamos Firebase, realizando una comunicación vía websocket entre los votos y los gráficos con el backend ',
+        'Game of the year es un proyecto que esta dentro del curso de Angular Avanzado, En este caso practicamos Firebase, realizando una comunicación vía websocket entre los votos y los gráficos con el backend',
       url: 'https://gameoftheyear.netlify.app',
     },
     {
@@ -53,7 +53,7 @@ export class ProyectsComponent {
       title: 'Map',
       subtitle: 'Angular',
       description:
-        'Proyecto de Práctica para la implementación de Mapbox, esta pequeña pero poderosa app, es capaz de encontra, marcar y trazar una ruta entre dos puntos, es una libreria desarrollada en JS, esposible tiparla para Typescript',
+        'Proyecto de Práctica para la implementación de Mapbox, esta pequeña pero poderosa app, es capaz de encontrar, marcar y trazar una ruta entre dos puntos, es una librería desarrollada en JS, usada en Typescript',
       url: 'https://angularmapbox.netlify.app',
     },
   ];

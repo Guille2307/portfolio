@@ -17,7 +17,7 @@ export class TechnologiesComponent {
       alt: 'express Image',
     },
     {
-      path: './assets/tecnologias/angular.svg',
+      path: './assets/tecnologias/angular.png',
       alt: 'Angular Image',
     },
     {

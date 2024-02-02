@@ -9,6 +9,14 @@ import { Router } from '@angular/router';
 export class ProyectsComponent {
   public proyects: any[] = [
     {
+      img: './assets/proyects/Net.jpg',
+      title: 'NetTask',
+      subtitle: 'Angular, Node',
+      description:
+        'Es una web para organizar tareas, puedes asignarle una tarea aun usuario, cambiar el status y añadir tags. consume servicios REST, Node, Express ,JWT, CRUD, trabajos con interceptores, Pipes, formularios reactivos.',
+      url: 'https://netberrytest.netlify.app/#/login',
+    },
+    {
       img: './assets/proyects/Show.jpg',
       title: 'Woutick Show',
       subtitle: 'Angular, Ionic',
